@@ -1,0 +1,7 @@
+Ilgaz hangi ilimizin ilcesidir?
+A) Trabzon
+B) Cankırı
+C) Bursa
+D) Nigde 
+B
+Hint: Ilgaz Batı karadeniz'in en yüksek dagıdır

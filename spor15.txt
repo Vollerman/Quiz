@@ -1,0 +1,7 @@
+Basketbolda hucuma cikan takim kac saniye icinde hucumunu bitirmek zorundadir?
+A) 12
+B) 24
+C) 25
+D) 30 
+B
+Hint: bu tur hizli sporlarda fazla sure taninmaz ayrıca bir cift sayidir.

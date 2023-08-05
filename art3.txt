@@ -1,0 +1,7 @@
+Muzeler genel olarak haftanin hangi günü kapalidir?
+A) pazartesi
+B) carsamba 
+C) pazar 
+D) cumartesi
+D
+Hint: haftasonundan bir gün. 

@@ -1,0 +1,7 @@
+Basketbol takiminda oyuncularin forma numarasi hangi sayiyla baslar?
+A)7
+B)6
+C)5
+D)4
+D
+Hint bir cift sayidir

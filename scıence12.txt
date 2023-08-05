@@ -1,0 +1,7 @@
+İsigi en cok soguran renk nedir? 
+A) yesil
+B) kirmizi
+C) sari
+D) mavi
+A
+hint: icindeki pigmentten kaynaklanir 

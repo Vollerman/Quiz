@@ -1,0 +1,7 @@
+Kani mavi renkte olan hayvan hangisidir? 
+A) istakoz
+B) midye
+C) istavrit
+D) yilan
+A
+Hint: denizde yasar, kabukludur

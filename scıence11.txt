@@ -1,0 +1,7 @@
+Kapasitans'in birimi nedir?
+A) Watt
+B) Henry
+C) Farad
+D) Hertz
+C
+Hint: İsmini elektrolizin temel ilkelerini belirleyen bilim adaminin isminden almistir

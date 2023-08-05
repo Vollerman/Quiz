@@ -1,0 +1,7 @@
+Flora,Irena,Foça,Ceres,Pallas,Vesta hangi gokcisimlerinin adlaridir?
+A) asteroid
+B) yildiz
+C) galaksi
+D) nebula
+A
+Hint: Bazen gezegenimizin cok yakinindan gecebiliyorlar

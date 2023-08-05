@@ -1,0 +1,7 @@
+Evrenin kesfedilen en soguk yeri kac derecedir?
+A) -273
+B) -272
+C) -274
+D) -331
+B
+Hint: Mutlak sicaklik noktasiyla ilgisi vardir

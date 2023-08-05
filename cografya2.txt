@@ -1,0 +1,7 @@
+Hangi ilimizin sadece 1 komsusu vardır?
+A) Kilis
+B) Bursa
+C) İstanbul
+D) Bilecik
+A
+Hint: Eskiden Gaziantep'in bir ilcesiydi 

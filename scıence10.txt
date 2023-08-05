@@ -1,0 +1,7 @@
+Frekans'in birimi nedir? 
+A) Amper
+B) Hertz
+C) Volt
+D) Pascal
+B
+Hint: Saniyede bir donguye esit olan seye denir
